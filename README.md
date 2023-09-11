@@ -4,7 +4,7 @@ Submitted by: **Sawwon Lee**
 
 **HelloWorld** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **X** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## Required Features
 
@@ -29,7 +29,7 @@ GIF created with [ScreenToGif](https://www.screentogif.com/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+No unusual challenges were encountered while building the app.
 
 ## License
 
